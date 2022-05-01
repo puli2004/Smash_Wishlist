@@ -9,7 +9,7 @@ This is my wish list at the moment for smash as the years go by.
 - [ ] Geno as a fighter
 - [ ] Remaking mario moveset
 - [ ] Add street fighter victory call
-- [ ] Unsharing theme that were shared
+- [x] Unsharing theme that were shared
 - [ ] Make FD melee
 - [ ] Add goofy and donald for sora
 - [ ] Make my own charater in the game // I'm looking up to it
