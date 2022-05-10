@@ -3,7 +3,7 @@ This is my wish list at the moment for smash as the years go by.
 
 - [ ] Minecraft plugin // Makes charaters look more alike in their game and adds two more monsters.
 - [ ] Movie_one_slot // I am not finishing this. Fuck that.
-- [ ] Camera_one_slot // No clue where to find it.
+- [ ] Camera_one_slot // No clue where to find it. Still a maybe but not the right moment
 - [ ] Sora hit UI //Most likely need help
 - [ ] Riku as a fighter // Waiting on folder addition
 - [ ] Geno as a fighter
