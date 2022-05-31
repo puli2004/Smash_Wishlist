@@ -13,3 +13,5 @@ This is my wish list at the moment for smash as the years go by.
 - [ ] Make FD melee
 - [ ] Add goofy and donald for sora
 - [ ] Make my own charater in the game // I'm looking up to it
+- [ ] Redesign Young Link.
+- [ ] Import UE5 Battlefield to SSBU// This is just a request from a buddy. UE5 is somthing at the moment.
