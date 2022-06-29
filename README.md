@@ -8,7 +8,7 @@ Finished:
 - [x] Unsharing theme that were shared// Its done but the Unique victory can unshare the files by just putting the theme in the folder
 
 Work in Progress:
-- [ ] Super Smash Bros Melee Revaped is in the way. Development time may very.
+
 
 Marked: For Later on.
 - [ ] Geno as a fighter
