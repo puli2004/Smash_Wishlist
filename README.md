@@ -18,4 +18,4 @@ Marked: For Later on.
 - [ ] Add goofy and donald for sora
 - [ ] Make my own charater in the game // I'm looking up to it
 - [ ] Redesign Young Link.//Folder Addition
-- [ ] Final Destination Remake// LVD really fucked me up. I'll wait till we get additions
+- [ ] Final Destination Remake// I'll finish it once I finish the rest.
