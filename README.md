@@ -3,7 +3,7 @@ This is my wish list at the moment for smash as the years go by.
 
 Finished: 
 - [x] Minecraft Legacy Mod // Its finished. Release day: October 13th 2022. //Could change if camera or movie files are one unshared
-- [x] Sora hit UI //Finished. Release Day: July 1st 2022
+- [x] Sora hit UI //Finished. Released
 - [x] street fighter victory call //This won't get released till patching to sli_sound with using orginal is possible
 - [x] Unsharing theme that were shared// Its done but the Unique victory can unshare the files by just putting the theme in the folder
 
