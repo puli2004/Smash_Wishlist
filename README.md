@@ -22,5 +22,10 @@ Marked: For Later on.
 - [ ] Final Destination Remake// I'll finish it once I finish the rest.
 - [ ] Riku as a fighter // Sora will be base for now. Release day to be conformed 
 - [ ] Make my own charater in the game // I'm looking up to it
-- [ ] Fixing the Unique Stage mod. Music won't return to the original music. Causing the game to crash due to it not finding it in the folder.
+
 - [ ] Redesign sonic to OG sonic // Pased because I want to make victory stages.
+
+
+Whats may not be fixed:
+- [ ] Fixing the Unique Stage mod. Music won't return to the original music. Causing the game to crash due to it not finding it in the folder.
+// I'll just configure it for the mod pack.
